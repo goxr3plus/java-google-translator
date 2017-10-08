@@ -8,8 +8,8 @@ using [java-google-speech-api](https://github.com/goxr3plus/java-speech-api) lib
 1) Well this is a Maven Project , so you can download or clone the repository and open it with your favourite IDE ( **Eclipse , Netbeans , IntelliJ** )
 and run a ``` Maven Clean Package ``` .
 
-Though if you decide to use Eclipse everything is ready  you just have to go Import -> Existing Projects into WorkSpace ( if you have downloaded the repository ) .
-Actually you can directly clone it from your favourite IDE . 
+*Though if you decide to use Eclipse everything is ready  you just have to go Import -> Existing Projects into WorkSpace ( if you have downloaded the repository ) .
+Actually you can directly clone it from your favourite IDE .* 
 
 2) The libraries we are using are `java-google-speech-api` which has the following two dependencies :
 
@@ -37,9 +37,6 @@ Actually you can directly clone it from your favourite IDE .
   3)Everything is already configured in pom.xml , so download and go ! :)
 
 ### Youtube Tutorials ( I explain everything here)
-
-# Youtube Tutorials
-
 [![Tutorial](http://img.youtube.com/vi/H9G02EkohtU/0.jpg)](https://www.youtube.com/watch?v=H9G02EkohtU)
 
 
