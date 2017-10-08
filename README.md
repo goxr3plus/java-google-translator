@@ -1,6 +1,6 @@
 # Java-google-translator
 Do you want to use Google Translate inside your Java Application ...? Well now you can :) This repository shows you basic examples
-using java-google-speech-api library from GOXR3PLUS STUDIO , based on java-speech-api library .
+using [java-google-speech-api](https://github.com/goxr3plus/java-speech-api) library from GOXR3PLUS STUDIO , based on [java-speech-api](https://github.com/lkuza2/java-speech-api) library from lkuza2.
 
 
 ## How to download and play with it 
