@@ -5,13 +5,14 @@ using java-google-speech-api library from GOXR3PLUS STUDIO , based on java-speec
 
 ## How to download and play with it 
 
-1) Well this is a Maven Project , so you can download or clone the repository and open it with your favourite IDE ( Eclipse , Netbeans , IntelliJ )
-and run a Maven Clean Package .
+1) Well this is a Maven Project , so you can download or clone the repository and open it with your favourite IDE ( **Eclipse , Netbeans , IntelliJ** )
+and run a ``` Maven Clean Package ``` .
 
 Though if you decide to use Eclipse everything is ready  you just have to go Import -> Existing Projects into WorkSpace ( if you have downloaded the repository ) .
 Actually you can directly clone it from your favourite IDE . 
 
-2) The libraries we are using are `java-google-speech-api` which has the following two depencitis 
+2) The libraries we are using are `java-google-speech-api` which has the following two dependencies :
+
 ```
 <dependencies>
 	<!-- <dependency> <groupId>com.github.lkuza2</groupId> <artifactId>java-speech-api</artifactId> 
