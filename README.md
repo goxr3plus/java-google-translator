@@ -13,7 +13,7 @@ Actually you can directly clone it from your favourite IDE .*
 
 2) The libraries we are using are `java-google-speech-api` which has the following two dependencies :
 
-```
+``` XML
 <dependencies>
 	<!-- <dependency> <groupId>com.github.lkuza2</groupId> <artifactId>java-speech-api</artifactId> 
 		<version>v2.02</version> </dependency> -->
